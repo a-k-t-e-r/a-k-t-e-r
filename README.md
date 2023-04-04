@@ -1,5 +1,5 @@
 <h1>Hi! 👋 I'm *Akter*.</h1>
-<div style="text-align: center;">🛈 𝗬𝗼𝘂 𝗰𝗮𝗻 𝗿𝗲𝗮𝗰𝗵 𝗺𝗲 𝗼𝘂𝘁 𝗯𝘆: <a href="mailto:webmaster@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></div>
+<div style="justify-content: center;">🛈 𝗬𝗼𝘂 𝗰𝗮𝗻 𝗿𝗲𝗮𝗰𝗵 𝗺𝗲 𝗼𝘂𝘁 𝗯𝘆: <a href="mailto:webmaster@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></div>
 
 <h2> Intro </h2>
 I'm a self-taught software developer and I do open-source coding for fun. I've 4+ years of experience contributing in various organizations where I've the opportunity to works with some IoT and AI based software systems which's are based on Health-care and Property-related solutions.
