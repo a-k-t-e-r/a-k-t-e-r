@@ -2,7 +2,7 @@
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
   <p>🛈 𝗬𝗼𝘂 𝗰𝗮𝗻 𝗿𝗲𝗮𝗰𝗵 𝗺𝗲 𝗼𝘂𝘁 𝗯𝘆:</p>
   <a href="mailto:myselfakterhossain@gmail.com">
-    <img src="[your-image-url-here](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
   </a>
 </div>
 
